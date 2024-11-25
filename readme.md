@@ -3,12 +3,6 @@
 ## 📋 Descripción  
 Una extensión de Chrome que intercepta y procesa enlaces especiales de Arbitrum utilizando **JSONBin.io** como backend para almacenar y recuperar datos JSON.
 
-## ✨ Características  
-- 🔗 Intercepta enlaces con la clase `arbitrum-action`.  
-- 📦 Procesa datos JSON desde **JSONBin.io**.  
-- 📄 Muestra los resultados directamente en la página.  
-- 🚦 Interfaz visual con estado de la extensión.  
-
 ## 🎯 Caso de Uso: Donaciones Rápidas y Transparentes con Arbitrum
 
 ### El Problema
