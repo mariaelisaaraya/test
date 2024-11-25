@@ -33,7 +33,7 @@ ALinks simplifica las donaciones en Arbitrum mediante:
 
 ## 🔧 Requisitos Técnicos
 
-### Contratos Inteligentes Necesarios
+### Contratos Inteligentes Necesarios a Realizar
 1. **Contrato de Donaciones**
    ```solidity
    interface IDonationContract {
