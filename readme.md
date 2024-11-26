@@ -1,7 +1,7 @@
 # Arbitrum ALinks Extension
 
 ## 📋 Descripción  
-Una extensión de Chrome que intercepta y procesa enlaces especiales de Arbitrum utilizando **JSONBin.io** como backend para almacenar y recuperar datos JSON.
+Una extensión de Chrome que intercepta y procesa enlaces especiales de Arbitrum utilizando **JSONBin.io** 
 
 ## 🎯 Caso de Uso: Donaciones Rápidas y Transparentes con Arbitrum
 
